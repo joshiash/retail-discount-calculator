@@ -1,8 +1,8 @@
 package com.ashwin.retail.discount.service;
 
 import com.ashwin.retail.discount.DiscountSlab;
-import com.ashwin.retail.discount.costumer.CustomerDiscountFactory;
-import com.ashwin.retail.discount.costumer.ICustomerDiscount;
+import com.ashwin.retail.discount.customer.CustomerDiscountFactory;
+import com.ashwin.retail.discount.customer.ICustomerDiscount;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

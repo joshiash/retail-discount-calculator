@@ -1,4 +1,4 @@
-package com.ashwin.retail.discount.costumer;
+package com.ashwin.retail.discount.customer;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

@@ -1,7 +1,6 @@
-package com.ashwin.retail.discount.costumer;
+package com.ashwin.retail.discount.customer;
 
 import com.ashwin.retail.discount.DiscountSlab;
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

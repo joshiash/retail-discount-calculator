@@ -1,4 +1,4 @@
-package com.ashwin.retail.discount.costumer;
+package com.ashwin.retail.discount.customer;
 
 import com.ashwin.retail.discount.DiscountSlab;
 import org.springframework.stereotype.Component;
